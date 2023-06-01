@@ -8,4 +8,4 @@ const user = {
 	age: 30,
 };
 test(user);
-console.log(test(123));
+console.log(test(12443));
