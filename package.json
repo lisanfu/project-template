@@ -6,10 +6,13 @@
 	"author": "lifuyuan-cx <lifuyuan-cx@huafang.com>",
 	"license": "MIT",
 	"dependencies": {
+		"clean-webpack-plugin": "^4.0.0",
 		"commitizen": "^4.3.0",
+		"css-loader": "^6.8.1",
 		"eslint": "^8.41.0",
 		"eslint-config-prettier": "^8.8.0",
 		"eslint-plugin-prettier": "^4.2.1",
+		"html-webpack-plugin": "^5.5.1",
 		"husky": "^8.0.3",
 		"lint-staged": "^13.2.2",
 		"prettier": "^2.8.8"

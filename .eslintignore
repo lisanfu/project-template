@@ -4,3 +4,5 @@ package.json
 yarn.lock
 *.md
 webpack.config.js
+yarn.lock
+yarn-error.log

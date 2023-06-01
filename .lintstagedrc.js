@@ -1,3 +1,3 @@
 module.exports = {
-	'*': 'yarn lint',
+	'./src/*.js': 'yarn lint',
 };
