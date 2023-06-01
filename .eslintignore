@@ -1,4 +1,6 @@
 node_modules
+dist/*
 package.json
 yarn.lock
 *.md
+webpack.config.js
