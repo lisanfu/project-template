@@ -6,6 +6,7 @@
 	"author": "lifuyuan-cx <lifuyuan-cx@huafang.com>",
 	"license": "MIT",
 	"dependencies": {
+		"commitizen": "^4.3.0",
 		"eslint": "^8.41.0",
 		"eslint-config-prettier": "^8.8.0",
 		"eslint-plugin-prettier": "^4.2.1",
@@ -15,6 +16,7 @@
 	},
 	"scripts": {
 		"prepare": "husky install",
-		"lint": "eslint ./src --ext .js --fix"
+		"lint": "eslint ./src --ext .js --fix",
+		"commit": "cz"
 	}
 }
