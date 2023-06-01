@@ -4,11 +4,10 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [1.1.3](https://github.com/lisanfu/project-template/compare/v1.1.2...v1.1.3) (2023-06-01)
 
-
 ### 📦‍ Build System | 打包构建
 
-* **javascript:** this is a test ([33787c0](https://github.com/lisanfu/project-template/commit/33787c0565791eaec32affa3f16b8e6aaf7efbb0))
-* **javascript:** this is build tool ([286d61d](https://github.com/lisanfu/project-template/commit/286d61d60357bb1d097bc2f468c98ace7cd5b825))
+-   **javascript:** this is a test ([33787c0](https://github.com/lisanfu/project-template/commit/33787c0565791eaec32affa3f16b8e6aaf7efbb0))
+-   **javascript:** this is build tool ([286d61d](https://github.com/lisanfu/project-template/commit/286d61d60357bb1d097bc2f468c98ace7cd5b825))
 
 ### [1.1.2](https://github.com/lisanfu/project-template/compare/v1.1.1...v1.1.2) (2023-06-01)
 
