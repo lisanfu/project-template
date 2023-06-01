@@ -1,6 +1,6 @@
 {
 	"name": "project-template",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"main": "index.js",
 	"repository": "https://github.com/lisanfu/project-template.git",
 	"author": "lifuyuan-cx <lifuyuan-cx@huafang.com>",
@@ -19,8 +19,8 @@
 		"lint": "eslint ./src --ext .js --fix",
 		"commit": "cz",
 		"release": "standard-version",
-   		"release:alpha": "standard-version --prerelease alpha",
-   		"release:rc": "standard-version --prerelease rc"
+		"release:alpha": "standard-version --prerelease alpha",
+		"release:rc": "standard-version --prerelease rc"
 	},
 	"config": {
 		"commitizen": {
