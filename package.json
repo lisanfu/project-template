@@ -1,6 +1,6 @@
 {
 	"name": "project-template",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "index.js",
 	"repository": "https://github.com/lisanfu/project-template.git",
 	"author": "lifuyuan-cx <lifuyuan-cx@huafang.com>",
@@ -17,17 +17,18 @@
 	"scripts": {
 		"prepare": "husky install",
 		"lint": "eslint ./src --ext .js --fix",
-		"commit": "cz"
+		"commit": "cz",
+		"release": "standard-version"
 	},
 	"config": {
 		"commitizen": {
 			"path": "./node_modules/cz-customizable"
 		}
 	},
-
 	"devDependencies": {
 		"@commitlint/cli": "^17.6.5",
 		"@commitlint/config-conventional": "^17.6.5",
-		"cz-customizable": "^7.0.0"
+		"cz-customizable": "^7.0.0",
+		"standard-version": "^9.5.0"
 	}
 }
