@@ -1,0 +1,8 @@
+{
+  "name": "project-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lisanfu/project-template.git",
+  "author": "lifuyuan-cx <lifuyuan-cx@huafang.com>",
+  "license": "MIT"
+}
