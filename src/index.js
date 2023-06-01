@@ -1,6 +1,6 @@
 // console.log(123);
 function test(val) {
-	return val;
+	return val + 1;
 }
 
 const user = {
