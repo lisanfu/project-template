@@ -20,7 +20,11 @@ module.exports = {
 		rules: [
 			{
 				test: /\.css$/,
-				use: 'css-loader',
+				use: ['style-loader', 'css-loader'],
+			},
+			{
+				test: /\.(png|svg|jpe?g|gif|webp)$/i,
+				type: 'asset/resource',
 			},
 		],
 	},

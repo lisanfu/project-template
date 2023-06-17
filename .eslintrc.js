@@ -6,7 +6,9 @@ module.exports = {
 		node: true,
 	},
 	// parser: 'esprima',
-	parserOptions: {},
+	parserOptions: {
+		sourceType: 'module',
+	},
 	extends: ['eslint:recommended', 'prettier'],
 	plugins: ['prettier'],
 	rules: {
