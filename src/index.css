@@ -1,3 +1,17 @@
 body {
-	background: red;
+	/* background: red; */
+}
+@font-face{
+	font-family: 'MyFont';
+	src: url('../fonts/MyFont.ttf');
+	font-weight: 600;
+	font-style: normal
+}
+.hello {
+	width: 500px;
+	height: 500px;
+	font-size: 24px;
+	color: red;
+	font-family: MyFont;
+	background: url('../assets//img.jpeg')
 }
